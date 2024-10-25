@@ -62,4 +62,4 @@ bird-classification-app/
 ```
 
 ## 🙏 Acknowledgments
-This project is inspired by the beauty and diversity of bird species. Thank you to open-source data providers and the Streamlit community for making this project possible!
+This project is inspired by the beauty and diversity of bird species. Special thanks to open-source bird image datasets and the Streamlit community for resources and support.
