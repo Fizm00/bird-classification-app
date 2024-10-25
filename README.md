@@ -2,7 +2,7 @@
 
 Welcome to the **Bird Classification App**! This app uses Convolutional Neural Networks (CNNs) to identify bird species from uploaded images. With a friendly Streamlit interface, users can explore bird classification powered by deep learning and computer vision. 🐦📸
 
-![Bird Classification App Screenshot](path/to/your/screenshot.png)  
+![Bird Classification App Screenshot](./screenshot-app.png)  
 *Screenshot of the Bird Classification App Interface*
 
 ## ✨ Features
